@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-08T07:42:47.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="e8k9-MVZN2xMW6eQmMyw" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-08T07:45:59.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="d1SwM3B-ih8ymWpaf90t" version="16.5.3" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2031" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3" value="导航栏" style="rounded=1;shadow=1;fontStyle=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;flipH=1;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="710" y="230" width="218" height="60" as="geometry" />
+          <mxGeometry x="710" y="190" width="218" height="60" as="geometry" />
         </mxCell>
         <mxCell id="67sv7QCmZ2aAzov5QZb7-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4" target="67sv7QCmZ2aAzov5QZb7-12">
           <mxGeometry relative="1" as="geometry">
@@ -42,6 +42,19 @@
         </mxCell>
         <mxCell id="4" value="发现页&#xa;默认首页" style="rounded=1;shadow=1;fontStyle=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;flipH=1;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="302" y="455.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="67sv7QCmZ2aAzov5QZb7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="5" target="67sv7QCmZ2aAzov5QZb7-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="681" y="560" />
+              <mxPoint x="961" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="67sv7QCmZ2aAzov5QZb7-24" value="类似页面" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="67sv7QCmZ2aAzov5QZb7-23">
+          <mxGeometry x="-0.3169" y="-2" relative="1" as="geometry">
+            <mxPoint x="61" y="-12" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5" value="记录页&#xa;添加记录" style="rounded=1;shadow=1;fontStyle=1;fontSize=14;flipH=1;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="581" y="455.5" width="200" height="60" as="geometry" />
