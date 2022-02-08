@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-08T07:36:08.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="oRPW9KQz1jpBxw6RhSBG" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-08T07:39:34.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="T0eYF5R5_1zhIeRwTH-P" version="16.5.3" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2031" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -51,26 +51,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4" value="发现（默认首页）" style="rounded=1;shadow=1;fontStyle=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="4" value="发现页&#xa;默认首页" style="rounded=1;shadow=1;fontStyle=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" parent="1" vertex="1">
           <mxGeometry x="302" y="455.5" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="记录" style="rounded=1;shadow=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="5" value="记录页&#xa;添加记录" style="rounded=1;shadow=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="581" y="455.5" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="67sv7QCmZ2aAzov5QZb7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6" target="67sv7QCmZ2aAzov5QZb7-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="67sv7QCmZ2aAzov5QZb7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6" target="67sv7QCmZ2aAzov5QZb7-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960.9999999999995" y="595.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="6" value="统计" style="rounded=1;shadow=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="6" value="统计页&#xa;默认月视图" style="rounded=1;shadow=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="861" y="455.5" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HV4kGWUIBfGor4adAAQZ-55" value="设置" style="rounded=1;shadow=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="HV4kGWUIBfGor4adAAQZ-55" value="设置页" style="rounded=1;shadow=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1140" y="455.5" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="67sv7QCmZ2aAzov5QZb7-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="67sv7QCmZ2aAzov5QZb7-10" target="67sv7QCmZ2aAzov5QZb7-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="67sv7QCmZ2aAzov5QZb7-10" value="月视图" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;shadow=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="901" y="595.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="67sv7QCmZ2aAzov5QZb7-12" value="编辑记录" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;shadow=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="901" y="735.5" width="120" height="60" as="geometry" />
