@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2022-02-08T09:19:43.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.5.3" etag="ji4k7I-gSD3t1wHX4YLy" type="github"><diagram id="LeYQS3eegEFGrXKFrih5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-08T09:37:19.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="f_BRGyScNZEdEzhMrEEh" version="16.5.3" type="github">
+  <diagram id="LeYQS3eegEFGrXKFrih5" name="Page-1">
+    <mxGraphModel dx="1564" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SfUjTuaE5shy0dRNEBml-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="39" y="50" width="375" height="667" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-26" value="发现页" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="39" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-27" value="发现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="39" y="657" width="93.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-29" value="记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="132.75" y="657" width="93.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-30" value="统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="226.5" y="657" width="93.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-31" value="设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320.25" y="657" width="93.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-32" value="总览" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="49" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="51" y="90" width="351" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-34" value="指标" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="51" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-35" value="运动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="49" y="230" width="170.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-36" value="饮食" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="231.5" y="230" width="170.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-37" value="水分" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="49" y="340" width="170.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-38" value="冥想" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="231.5" y="340" width="170.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-39" value="阅读" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="49" y="450" width="170.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-40" value="周期" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="231.5" y="450" width="170.5" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
