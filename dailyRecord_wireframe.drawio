@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T02:14:24.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="WJipTjeGATEZDHyCoZw-" version="16.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-09T02:22:15.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="keKeRBaPBCnRNq-xUC0G" version="16.5.3" type="github" pages="4">
   <diagram id="Qzeqj0SnbEf_Cn_N3k6a" name="组件">
     <mxGraphModel dx="1715" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LeYQS3eegEFGrXKFrih5" name="发现页">
-    <mxGraphModel dx="1879" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1879" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,7 +79,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NNMCAl0OlrUrAbnQ1WU4" name="记录页">
-    <mxGraphModel dx="1479" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1479" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="6UcSKWhRy-Ho_wylhgB5-0" />
         <mxCell id="6UcSKWhRy-Ho_wylhgB5-1" parent="6UcSKWhRy-Ho_wylhgB5-0" />
@@ -529,6 +529,14 @@
         <mxCell id="gCziPaRQsygvw95p9YGa-146" value="数字" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;rounded=0;" vertex="1" parent="6UcSKWhRy-Ho_wylhgB5-1">
           <mxGeometry x="3252.5" y="53" width="110" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sRg4D_2Xl6RalCOMECMj" name="统计页">
+    <mxGraphModel dx="1315" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="mQ589S3hoq95hBjWhEFT-0" />
+        <mxCell id="mQ589S3hoq95hBjWhEFT-1" parent="mQ589S3hoq95hBjWhEFT-0" />
       </root>
     </mxGraphModel>
   </diagram>
