@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T01:13:25.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Y8HtlRDyH-49DPGrccEo" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-09T01:21:01.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="i2HBFy6jaYAGeRmbrXaN" version="16.5.3" type="github">
   <diagram id="LeYQS3eegEFGrXKFrih5" name="全部">
-    <mxGraphModel dx="1547" dy="1280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2192" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -255,6 +255,84 @@
         </mxCell>
         <mxCell id="SfUjTuaE5shy0dRNEBml-157" value="保存" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="450" y="1160" width="355" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-158" value="记录页-周期" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1360" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-159" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1400" width="375" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-176" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450" y="1690" width="355" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-177" value="备注" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11;rounded=0;" vertex="1" parent="SfUjTuaE5shy0dRNEBml-176">
+          <mxGeometry width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-178" value="Banana bread" style="rounded=1;arcSize=9;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontColor=#596780;fontSize=12" vertex="1" parent="SfUjTuaE5shy0dRNEBml-176">
+          <mxGeometry y="25" width="355" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-179" value="保存" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1810" width="355" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-193" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450" y="1410" width="240" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-188" value="结束" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;rounded=0;" vertex="1" parent="SfUjTuaE5shy0dRNEBml-193">
+          <mxGeometry x="100" y="37" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-161" value="经期" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11;rounded=0;" vertex="1" parent="SfUjTuaE5shy0dRNEBml-193">
+          <mxGeometry width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-183" value="开始" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;rounded=0;" vertex="1" parent="SfUjTuaE5shy0dRNEBml-193">
+          <mxGeometry y="37" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-184" value="经期" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;rounded=0;" vertex="1" parent="SfUjTuaE5shy0dRNEBml-193">
+          <mxGeometry x="50" y="37" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-194" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450" y="1482" width="240" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-195" value="较少" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;rounded=0;" vertex="1" parent="SfUjTuaE5shy0dRNEBml-194">
+          <mxGeometry x="100" y="37" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-196" value="经量" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11;rounded=0;" vertex="1" parent="SfUjTuaE5shy0dRNEBml-194">
+          <mxGeometry width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-197" value="较多" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;rounded=0;" vertex="1" parent="SfUjTuaE5shy0dRNEBml-194">
+          <mxGeometry y="37" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-198" value="一般" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;rounded=0;" vertex="1" parent="SfUjTuaE5shy0dRNEBml-194">
+          <mxGeometry x="50" y="37" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-200" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450" y="1553" width="240" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-201" value="无" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;rounded=0;" vertex="1" parent="SfUjTuaE5shy0dRNEBml-200">
+          <mxGeometry x="100" y="37" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-202" value="疼痛" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11;rounded=0;" vertex="1" parent="SfUjTuaE5shy0dRNEBml-200">
+          <mxGeometry width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-203" value="较痛" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;rounded=0;" vertex="1" parent="SfUjTuaE5shy0dRNEBml-200">
+          <mxGeometry y="37" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-204" value="一般" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;rounded=0;" vertex="1" parent="SfUjTuaE5shy0dRNEBml-200">
+          <mxGeometry x="50" y="37" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-205" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450" y="1625" width="240" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-206" value="较差" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;rounded=0;" vertex="1" parent="SfUjTuaE5shy0dRNEBml-205">
+          <mxGeometry x="100" y="37" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-207" value="心情" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11;rounded=0;" vertex="1" parent="SfUjTuaE5shy0dRNEBml-205">
+          <mxGeometry width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-208" value="较好" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;rounded=0;" vertex="1" parent="SfUjTuaE5shy0dRNEBml-205">
+          <mxGeometry y="37" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SfUjTuaE5shy0dRNEBml-209" value="一般" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;rounded=0;" vertex="1" parent="SfUjTuaE5shy0dRNEBml-205">
+          <mxGeometry x="50" y="37" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
